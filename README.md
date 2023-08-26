@@ -1,4 +1,6 @@
 # Example Projects
 Click any of the links to open it in Snail IDE
 
- - [Snail Squish](https://snail-ide.github.io/?project_url=https://snail-ide.github.io/examples/snail-files/squish.snail)
+ - [Snail Squish](https://snail-ide.github.io/editor?project_url=https://snail-ide.github.io/examples/snail-files/squish.snail)
+ - [Party Time](https://snail-ide.github.io/editor?project_url=https://extensions.turbowarp.org/samples/Party+Time.sb3)
+ - [Tweening](https://snail-ide.github.io/editor?project_url=https://extensions.turbowarp.org/samples/Tweening.sb3)
